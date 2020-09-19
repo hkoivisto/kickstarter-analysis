@@ -22,7 +22,7 @@ I reviewed 1047 kickstarter campaingns under the subcategory 'plays.' Of these, 
 ### Challenges and Difficulties Encountered
 Though the analysis from Outcomes Based on Launch Date shows a clear trend of successful campaigns being launched in May and June, it does not take into account the number of total campaigns lauched for each month. If it was noted that the number of campaigns launched varied siginificantly from month to month, further analysis could look at the percentage of successful campaigns by month. This anlaysis also does not account for the duration of the campaign. This presents a challenge in determining if failed campaigns could have been successful if allowed to fundraise for an extended period of time.
 
-The analyis of Outcome vs. Goal Amount also encounters a challenge when trying to predict fundraising success for high dollar goals due to the limited number of campaigns attempted in these ranges. 92% of play campaigns had a goal amount less than $15,000.
+The analysis of Outcome vs. Goal Amount also encounters a challenge when trying to predict fundraising success for high dollar goals due to the limited number of campaigns attempted in these ranges. 92% of play campaigns had a goal amount less than $15,000.
 
 ## Results
 
